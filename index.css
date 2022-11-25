@@ -1,0 +1,181 @@
+#menu {
+    /* Menu */
+
+
+    /* position: absolute; */
+    /* width: 1920px; */
+    height: 106px;
+    left: 0px;
+    top: 0px;
+
+    background: #000000;
+}
+
+#slide {
+
+    /* slide */
+
+
+    /* position: absolute;
+    width: 1920px;
+    height: 600px;
+    left: 0px;
+    top: 106px; */
+
+
+}
+
+#img-content-1 {
+    /* img-content-1 */
+
+
+    /* position: absolute; */
+    /* width: 350px;
+    height: 200px; */
+    left: 25px;
+    top: 792px;
+
+    
+}
+
+#img-content-2 {
+    /* img-content-1 */
+
+
+    /* position: absolute; */
+    /* width: 350px;
+    height: 200px; */
+    left: 405px;
+    top: 792px;
+
+    
+}
+
+#img-content-3 {
+    /* img-content-1 */
+
+
+    /* position: absolute; */
+    /* width: 350px;
+    height: 200px; */
+    left: 785px;
+    top: 792px;
+
+    
+}
+#img-content-4 {
+    /* img-content-1 */
+
+
+    /* position: absolute; */
+    /* width: 350px;
+    height: 200px; */
+    left: 1165px;
+    top: 792px;
+
+    
+}
+
+#text-content-1 {
+
+    /* text-content-1 */
+
+
+    /* position: absolute; */
+    width: 350px;
+    height: 207px;
+    left: 25px;
+    top: 1032px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #000000;
+}
+
+#text-content-2 {
+
+    /* text-content-1 */
+
+
+    /* position: absolute; */
+    width: 350px;
+    height: 207px;
+    left: 405px;
+    top: 1032px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #000000;
+}
+
+#text-content-3 {
+
+    /* text-content-1 */
+
+
+   /*  position: absolute; */
+    width: 350px;
+    height: 207px;
+    left: 785px;
+    top: 1032px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #000000;
+}
+#text-content-4 {
+
+    /* text-content-1 */
+
+
+    /* position: absolute; */
+    width: 350px;
+    height: 207px;
+    left: 1165px;
+    top: 1032px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #000000;
+}
+
+#footer {
+    /* footer */
+
+
+    /* position: absolute; */
+    width: 1920px;
+    height: 156px;
+    left: 0px;
+    top: 1309px;
+
+    background: #D9D9D9;
+}
+
+#logo{
+/* logo RT */
+
+
+position: absolute;
+width: 300px;
+height: 48px;
+left: 405px;
+top: 29px;
+
+}

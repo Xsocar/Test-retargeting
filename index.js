@@ -1,3 +1,9 @@
+/* archivo js que solo contine la conexion con Kontent
+    Nota:   procure usar Type para obtner los contenidos separados pero
+            despues de la primera llamada responde ok pero con datos vacios,
+            por lo que en honor al tiempo nome todo el objeto incial y lo filtre 
+            a mano (tosco pero eficaz)  */
+
 var KontentDelivery = window['kontentDelivery'];
 
 var deliveryClient = KontentDelivery.createDeliveryClient({
